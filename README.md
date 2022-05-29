@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou o @RodrigoSam
-- 👀  Focado em recomeçar..
-- 🌱  Estudando java como se não houvesse o amanhã!!
+- 👀  Focado em aprender cada dia mais..
+- 🌱  Estudando como se não houvesse o amanhã!!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
